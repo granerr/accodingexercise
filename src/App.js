@@ -49,8 +49,8 @@ class App extends Component {
               updated.
             </h2>
             <p className="body m-0 mb-8 fs-4 lh-4 m--fs-5 mw-36 mx-auto  ">
-              Each card links to the contact's links.account property. First and
-              last name included only where applicable.
+              Each card links to the links.account property of each contact.
+              First and last name included only where applicable.
             </p>
             <p className="body m-0 mb-8 fs-4 lh-4 m--fs-5 mw-36 mx-auto  ">
               Rose Graner, code exercise for ActiveCampaign JavaScript Engineer
